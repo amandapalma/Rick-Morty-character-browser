@@ -18,9 +18,7 @@ A web app to search and explore characters from the Rick & Morty series, built w
 
 **Error screens**: you get one of these if you type a search with no results, use a wrong route, or open a character's details with a wrong id.
 
-![Search not found](src/images/screenshots/searchNotfound.png)
-![Route not found](src/images/screenshots/routeNotFound.png)
-![Character Id not found](src/images/screenshots/characterIdNotFound.png)
+<img height="300" src="src/images/screenshots/searchNotfound.png" alt="Search not found"> &nbsp; <img height="300" src="src/images/screenshots/routeNotFound.png" alt="Route not found"> &nbsp; <img height="300" src="src/images/screenshots/characterIdNotFound.png" alt="Character id not found">
 
 ## Stack
 
