@@ -12,7 +12,7 @@ A web app to search and explore characters from the Rick & Morty series, built w
 
 ![Home](src/images/screenshots/home.png)
 
-**Details page**: clicking a character opens a detail card (species, status, origin planet and number of episodes).
+**Details page**: clicking a character opens a detail card (species, status, planet and number of episodes).
 
 ![Details Card](src/images/screenshots/detailsCard.png)
 
